@@ -1,0 +1,81 @@
+.header{
+    text-align: center;
+    font-family: cursive;
+    color: aliceblue;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+    box-shadow: 0px 0px 20px 5px #ffffff;
+    border-radius: 60px;
+}
+
+body{
+    background-image: url(https://wallpaperaccess.com/full/3167730.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h2{
+    text-align: center;
+    font-size: 40px;
+    font-family: cursive;
+    color: #00ffd5de;
+}
+
+.biography{
+    text-align: center;
+    color: beige;
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.career{
+    text-align: center;
+    color: beige;
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h1{
+    font-family: cursive;
+    font-size: 35px;
+    color: #00ffea;
+    text-align: center;
+}
+
+.image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.movie{
+    text-align: center;
+    color: beige;
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.death{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.final{
+    text-align: center;
+    color: beige;
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.quote{
+    color: orange;
+    font-size: 70px;
+    text-align: center;
+    font-family: cursive;
+}
